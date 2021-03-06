@@ -1,1 +1,1 @@
-# ssh
+# Cloning via ssh
